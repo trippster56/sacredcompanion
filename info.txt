@@ -1,0 +1,102 @@
+bolt ai prompt:
+Project Overview:
+Create a multi-page website for a Spiritual Director named Barb who offers one-on-one and group-based spiritual direction services. The website should evoke warmth, trust, and peace — using a candlelight-inspired color palette and a minimalist, modern layout.
+
+🎨 Design Style & Feel
+Use the warm and professional color palette shown in this style mockup:
+
+Dusty Rose #DBA7B1
+
+Warm Taupe #F9EFDF
+
+Burnt Sienna (primary) #A55F39
+
+Charcoal Gray #3E3E3E
+
+Soft Ivory/Cream background
+
+Soft candlelight imagery should be used to create a sense of calm, peace, and introspection.
+
+Font pairing: a serif font (like EB Garamond or Playfair Display) for headers, and a clean sans-serif (like Lato or Open Sans) for body text.
+
+No logo in the navigation bar — just text links for navigation.
+
+📄 Pages to Include
+Home
+
+Hero section with peaceful imagery and an inviting call-to-action
+
+Intro paragraph about spiritual direction — what it is, why it matters
+
+Quote carousel with peaceful or inspirational quotes about inner growth, direction, or faith
+
+Brief bio preview and link to "About Me"
+
+“Learn More” button linking to Contact or Resources
+
+About Me
+
+A welcoming, trust-building narrative about Barb’s background, calling, and training
+
+Headshot or soft portrait (placeholder)
+
+Section on “My Approach” with 3–4 values or guiding principles
+
+Trust-building details: credentials, affiliations, years of experience
+
+Contact
+
+Simple contact form (Name, Email, Message)
+
+Optional calendar integration placeholder (like Calendly)
+
+Peaceful background imagery or soft quote
+
+Resources
+
+Subsections or cards for:
+
+Articles / Readings
+
+Practices / Guided Meditations or Journaling Prompts
+
+Embedded Facebook Feed Integration from third-party plugin for dynamic updates
+
+Option for downloadable PDFs or links
+
+Events
+
+Upcoming events, workshops, retreats
+
+Each event card should have: Title, Date, Short Description, and optional RSVP or Learn More button
+
+Can use placeholder event data
+
+🔧 Technical & Functional Requests
+Fully responsive for mobile and tablet
+
+Clean code structure (React + Vite preferred)
+
+Light theme only — no dark mode toggle
+
+Semantic HTML structure for accessibility and SEO
+
+Simple scroll animations or fade-ins to give elegance
+
+Placeholder images for now, but optimized for eventual real content
+
+Final Note:
+Keep the site soft, elegant, and emotionally resonant. Every element should feel calm and intentional. Visitors should feel safe, seen, and gently invited to explore spiritual direction further.
+
+
+
+
+-- notes about the client: Barb is German and lived in Germany until she married Jeff and moved to the United States.
+
+She love being a mother to her wonderful four children.
+
+In the last two decades, she has been involved in various aspects of church ministry in Germany and the United States. This involvement has drawn her toward a deepening interest in disciplines and practices that promote spiritual encounter and spiritual growth. 
+
+A few years ago, this desire led her to participate in a two-year training in Spiritual Direction and have been blessed to grow in the practice of offering spiritual friendship (direction). Following this, she completed a two-year course of study in Spiritual Formation through the Epiphany Certification Program. 
+
+In ministry and motherhood, her longing for a solid spiritual foundation has drawn her into more deliberate practices of God’s presence. She has a great desire to cooperate with God as He draws His people into greater freedom and union with Him.
